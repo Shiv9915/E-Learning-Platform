@@ -149,6 +149,7 @@ REST_FRAMEWORK = {
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
+    "https://e-learning-platform-xi-seven.vercel.app/",
 ]
 
 from datetime import timedelta
